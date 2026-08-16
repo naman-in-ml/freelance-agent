@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+reports/*.md
+=1.0
+=2.32
